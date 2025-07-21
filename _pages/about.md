@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.ini.uzh.ch/en.html'>Institute of Neuroinformatics, UZH-ETHZ</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
